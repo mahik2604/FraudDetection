@@ -1,4 +1,9 @@
-Data Source: The dataset can be found [here](https://drive.google.com/file/d/1OHvhf5JrmYbO02wBSZqjKcwXEVxHzXAN/view?usp=sharing).
+Source Data for Fraudulent Transaction Detection
 
-Google drive link:
-https://drive.google.com/file/d/1OHvhf5JrmYbO02wBSZqjKcwXEVxHzXAN/view?usp=sharing
+The original source data file for this project, 'fraud.csv', is quite large, approximately 470 MB. Due to GitHub's file size limitations, I have hosted the file on Google Drive for easy access. You can download the source data using the following link:
+
+[Download Fraud Data (Google Drive)](https://drive.google.com/file/d/1OHvhf5JrmYbO02wBSZqjKcwXEVxHzXAN/view?usp=sharing)
+
+Please download the 'fraud.csv' file from the provided link and follow the instructions in the project documentation to use the data for model development and analysis.
+
+Note: Since this link directs you to an external source (Google Drive), make sure you have the necessary permissions to access the file.
